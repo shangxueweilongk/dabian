@@ -1,0 +1,7 @@
+﻿  查询1.c
+D:\Project43\查询1.c(22,11): warning C4098: “inquire1”:“void”函数返回值
+D:\Project43\查询1.c(40,11): warning C4098: “inquire2”:“void”函数返回值
+D:\Project43\查询1.c(60,11): warning C4098: “inquire3”:“void”函数返回值
+D:\Project43\查询1.c(243,12): warning C4098: “inquire”:“void”函数返回值
+D:\Project43\查询1.c(254,12): warning C4098: “inquire”:“void”函数返回值
+  Project43.vcxproj -> D:\Project43\x64\Debug\Project43.exe
